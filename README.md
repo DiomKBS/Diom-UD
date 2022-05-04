@@ -41,8 +41,10 @@ The figure below shows the schematic of the C3 version.
 [View the wiki](https://github.com/ai03-2725/Unified-Daughterboard/wiki)
 
 ## Previews
-![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Top.png)
-![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Bottom.png)
+![image](https://user-images.githubusercontent.com/77382879/166831572-e9b863f0-7b07-4d8b-adb0-90f2c1ff98fa.png)
+![image](https://user-images.githubusercontent.com/77382879/166832528-20415fa2-7785-4de6-8baf-9eb2351ca3cf.png)
+![image](https://user-images.githubusercontent.com/77382879/166832556-3bff5547-5e3c-408f-93b8-bae4c965c4fe.png)
+
 
 ## Credits
 * [Gondolindrim](http://github.com/Gondolindrim)
