@@ -18,6 +18,7 @@ In its latest version, C3, this daughterboard features:
 * Overvoltage protection through a bidirectional TVS diode;
 * Shielding noise decoupling capabilities through a ferrite bead;
 * Single-path grounding of the metallic chassis to which the daughterboard is attached.
+* Power Management and Voltage Protection
 
 Adittionally, the C3 version is backwards compatible with both C1 and C2 versions since it has the same dimensions and uses the same screw hole sizes and positions, so keyboards designed using the past versions should also support C3.
 
