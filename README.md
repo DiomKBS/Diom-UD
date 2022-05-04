@@ -3,9 +3,6 @@
 <p align="center">
   <img width="430" height="163" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/unifiedName.png">
 </p>
-<p align="center">
-  <img width="430" height="430" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/starsLogo.png">
-</p>
 
 ## Introduction
 The Unified Daughterboard Project is an attempt by leading designers in the mechanical keyboard community to standardize the USB daughterboards used for their custom mechanical keyboard projects. It has initially been envisioned by users ai03, Wilba, Hineybush, Xelus, Xondat, aeryxz and Maximillian.
@@ -29,7 +26,7 @@ Adittionally, the C3 version is backwards compatible with both C1 and C2 version
 The figure below shows the schematic of the C3 version.
 
 <p align="center">
-  <img width="713" height="362" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/C3-schematic.png">
+  <img width="713" height="362" src="https://user-images.githubusercontent.com/77382879/166828820-5b16dc1a-3c6c-44b8-b4ba-12852fa4a524.png">
 </p>
 
 * U1 is the ESD protection for the USB data lines. It is a ultra-fast, low-capacitance chip specifically designed for USB type C connectors. When one of the data lines presents a sudden voltage spike, this chip promptly grounds it -- avoiding damage to the circuit that uses these lines;
