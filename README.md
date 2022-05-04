@@ -3,9 +3,6 @@
 <p align="center">
   <img width="430" height="163" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/unifiedName.png">
 </p>
-<p align="center">
-  <img width="430" height="430" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/starsLogo.png">
-</p>
 
 ## Introduction
 The Unified Daughterboard Project is an attempt by leading designers in the mechanical keyboard community to standardize the USB daughterboards used for their custom mechanical keyboard projects. It has initially been envisioned by users ai03, Wilba, Hineybush, Xelus, Xondat, aeryxz and Maximillian.
@@ -21,6 +18,7 @@ In its latest version, C3, this daughterboard features:
 * Overvoltage protection through a bidirectional TVS diode;
 * Shielding noise decoupling capabilities through a ferrite bead;
 * Single-path grounding of the metallic chassis to which the daughterboard is attached.
+* Power Management and Voltage Protection
 
 Adittionally, the C3 version is backwards compatible with both C1 and C2 versions since it has the same dimensions and uses the same screw hole sizes and positions, so keyboards designed using the past versions should also support C3.
 
@@ -29,7 +27,7 @@ Adittionally, the C3 version is backwards compatible with both C1 and C2 version
 The figure below shows the schematic of the C3 version.
 
 <p align="center">
-  <img width="713" height="362" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/C3-schematic.png">
+  <img width="713" height="362" src="https://user-images.githubusercontent.com/77382879/166828820-5b16dc1a-3c6c-44b8-b4ba-12852fa4a524.png">
 </p>
 
 * U1 is the ESD protection for the USB data lines. It is a ultra-fast, low-capacitance chip specifically designed for USB type C connectors. When one of the data lines presents a sudden voltage spike, this chip promptly grounds it -- avoiding damage to the circuit that uses these lines;
@@ -44,8 +42,10 @@ The figure below shows the schematic of the C3 version.
 [View the wiki](https://github.com/ai03-2725/Unified-Daughterboard/wiki)
 
 ## Previews
-![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Top.png)
-![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Bottom.png)
+![image](https://user-images.githubusercontent.com/77382879/166831572-e9b863f0-7b07-4d8b-adb0-90f2c1ff98fa.png)
+![image](https://user-images.githubusercontent.com/77382879/166832528-20415fa2-7785-4de6-8baf-9eb2351ca3cf.png)
+![image](https://user-images.githubusercontent.com/77382879/166832556-3bff5547-5e3c-408f-93b8-bae4c965c4fe.png)
+
 
 ## Credits
 * [Gondolindrim](http://github.com/Gondolindrim)
