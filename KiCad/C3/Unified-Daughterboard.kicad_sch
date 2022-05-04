@@ -2497,23 +2497,6 @@
     (pin "2" (uuid 3e9c1c63-e670-4848-9887-5e04bddf24de))
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 234.315 53.34 0) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 00000000-0000-0000-0000-00005e790861)
-    (property "Reference" "G1" (id 0) (at 236.855 52.197 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "Unified-Daughterboard-Logo" (id 1) (at 236.855 54.483 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Unified-Daughterboard-Logo:Unified-Daughterboard-Logo.pretty" (id 2) (at 234.315 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 234.315 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
   (symbol (lib_id "power:GNDPWR") (at 32.385 119.38 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e791b9d)
@@ -2903,9 +2886,6 @@
     )
     (path "/00000000-0000-0000-0000-00005e78a38e"
       (reference "F1") (unit 1) (value "ASMD1206-150") (footprint "Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005e790861"
-      (reference "G1") (unit 1) (value "Unified-Daughterboard-Logo") (footprint "Unified-Daughterboard-Logo:Unified-Daughterboard-Logo.pretty")
     )
     (path "/00000000-0000-0000-0000-00005e780029"
       (reference "G2") (unit 1) (value "Unified-Daughterboard-Name") (footprint "Unified-Daughterboard-Logo:Unified-Daughterboard-Name.pretty")
