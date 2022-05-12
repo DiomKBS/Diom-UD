@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name "acheronSymbols")(type "Legacy")(uri "${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib")(options "")(descr ""))
+  (lib (name "acheronSymbols")(type "Legacy")(uri "${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib")(options "")(descr "")(disabled))
   (lib (name "Unified-Daughterboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/Unified-Daughterboard-rescue.lib")(options "")(descr ""))
+  (lib (name "2022-05-08_09-02-29")(type "Legacy")(uri "${GITREPO}/Diom-UD/KiCad/lib/2022-05-08_09-02-29.lib")(options "")(descr ""))
 )
